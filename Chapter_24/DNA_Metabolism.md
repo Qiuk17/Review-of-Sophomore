@@ -3,7 +3,7 @@
 - Semiconservative
   - each strand acts as a template.
   - proved by experiment using E.*coli* cells. ([The experiment.](images/semi_exp.jpg))
-- daughter strands are synthesized **immediately** after parental strands separate. ([No complete unwinding DNA strands observed.](images/replication.jpg))
+  - daughter strands are synthesized **immediately** after parental strands separate. ([No complete unwinding DNA strands observed.](images/replication.jpg))
 - DNA replication begins at **specific** sites and proceeds **bidirectionally**.
 - The chemistry of DNA polymerizarion
   - revealed by *in vitro*(体外的) studies using DNA polymerase purified from E.*coli*
@@ -42,6 +42,14 @@
   - The $\alpha, \beta$ and $\theta$ subunits are **core polymerase**.
   - The $\tau, \gamma, \delta$ and $\delta '$ subunits are called **Clamp-loading ($\gamma$) comlpex** that loads $\beta$ subunits on *lagging strand* at each Okazaki fragment.
 - [Comparison of DNA polymerases of E.*coli*.](images/comparison&#32;of&#32;pols.jpg)
+- Overview on DNA replication of E.*coli*:
+  - **Helicase** (*dnaB*): moving along the DNA and separating the two DNA strands *using energy* from ATP;
+  - **Topoisomerase** (拓扑异构酶): relieving topological strains in the helical structure (positive supercoils) generated during strand seperation;
+  - **DNA-binding protein**: binding and stabilizing the single-stranded DNA generated;
+  - **Primase** (*dnaG*): generating a short RNA primer;
+  - **DNA polymerase III**: polymerizing and proofreading the nucleotides according to the templates;
+  - **DNA polymerase I** (*pol A*): removing the RNA primers and replacing by a DNA sequence;
+  - **DNA ligase**: sealing nicks between the Okazaki fragments.
 - **Semidiscontinuous** synthesis of the two daughter DNA strands.
   - At a [replication fork](images/replicationFork.jpg), the overall elongation direction for one daughter strand is 5'->3' and 3'->5' due to the **antiparallel** features of DNA deplexes.
     - The 5'->3' (**leading strand**) is synthesized continuously.
