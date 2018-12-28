@@ -18,8 +18,32 @@
   - [**Nick translation**](images/nickTranslation.jpg): The 5'->3' exonuclease activity allows pol I to degrade and replace an RNA or DNA strand paired to a DNA template simultaneously. Used in:
     - DNA repair
     - Removal of RNA primers in DNA replication
+  - The velocity of this enzyme is low (600 necleotides/min), and its processivity (持续合成能力) is also low (about 50 nucleotides). So, E.*coli* cells don't use this for DNA replication.
+- [DNA pol III](images/polIII.jpg)
+  - Multimeric, containing at least 10 different subunits.
+  - The holoenzyme exists as an asymmetric (不对称的) dimer, which is believed to be responsble for synthesizing the leading strand and the lagging strand.
+  - Polymerization activity is on $\beta$ subunits.
+  - Proofreading activity is on $\epsilon$ subunits.
+  - $\beta$ subunits provide high processivity (more than 500,000 nucleotides per binding).
+  - The rate of DNA synthesis is high (1,000 nucleotides pre second).
+  - No 5'->3' exonuclease activity. So, it cannot remove the RNA primers.
+  - Functions of each subunits: <br />
+    | Subunit | Function |
+    | :--: | :-- |
+    | $\alpha$ | Polymerization |
+    | $\epsilon$ | 3'->5' Proofreading exonuclease |
+    | $\theta$ | Stabilization of $\epsilon$ subunit |
+    | $\tau$ | Stable template binding; core enzyme dimerization |
+    | $\gamma$ | Clamp loader |
+    | $\delta$ | Clamp opener |
+    | $\delta '$ | Clamp loader |
+    | $\beta$ | DNA clamp required for optimal processivity |
+    | | |
 - **Semidiscontinuous** synthesis of the two daughter DNA strands.
   - At a [replication fork](images/replicationFork.jpg), the overall elongation direction for one daughter strand is 5'->3' and 3'->5' due to the **antiparallel** features of DNA deplexes.
+    - The 5'->3' (**leading strand**) is synthesized continuously.
+    - The 3'->5' (**lagging strand**) is synthesized in small fragments (called *Okazaki fragments*). The fragments are then joined by **NDA ligase**s. The fragments are synthesized in 5'->3'.
+    - 
 
 ## Degration
 - DNA is degraded by nucleases (DNases)
