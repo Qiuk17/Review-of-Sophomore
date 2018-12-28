@@ -1,5 +1,5 @@
 # Chapter 24 DNA Metabolism
-## Replication
+## Basic Knowledgement
 - Semiconservative
   - each strand acts as a template.
   - proved by experiment using E.*coli* cells. ([The experiment.](images/semi_exp.jpg))
@@ -55,7 +55,15 @@
     - The 5'->3' (**leading strand**) is synthesized continuously.
     - The 3'->5' (**lagging strand**) is synthesized in small fragments (called *Okazaki fragments*). The fragments are then joined by **NDA ligase**s. The fragments are synthesized in 5'->3'.
     - 
-
+- Replication origin is a 245 bp fragment in the E.*coli* DNA, called [*OriC*](images/OriC.jpg).
+  - It contains three 13-mer with nearly identical sequences and fibe 9-mer repeats, all of which are highly conserved among all bacterial replication origins.
+  - It also contains 11 **GATC** sequences, which can be methylated at the base ring of **A** (may be responsible for the only one replication per cell division).
+-----------
+## Replication
+- **Initiation**, **Elongation** and **Termination**
+  - 8 DnaA protein molucules (with ATP bound) bind to the five 9 bp repeats at *OriC* that is supercoiled.
+  - HU (a histone-like protein) binds to DnaA complex and opens the DNA strands at the AT-rich 12-mer repeats.
+-----------
 ## Degration
 - DNA is degraded by nucleases (DNases)
   - **Exonucleases (外切酶)** degrade nucleic acids from one end of the molecule. Operate in only 5'->3' **or** 3'->5' direction, removing nucleotides **only** from the 5' or 3' end.
