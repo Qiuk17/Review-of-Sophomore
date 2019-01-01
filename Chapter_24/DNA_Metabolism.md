@@ -39,7 +39,7 @@
     | $\delta$ | Clamp opener |
     | $\delta '$ | Clamp loader |
     | $\beta$ | DNA clamp required for optimal processivity |
-    | | |
+    
   - The $\alpha, \beta$ and $\theta$ subunits are **core polymerase**.
   - The $\tau, \gamma, \delta$ and $\delta '$ subunits are called **Clamp-loading ($\gamma$) comlpex** that loads $\beta$ subunits on *lagging strand* at each Okazaki fragment.
 - [Comparison of DNA polymerases of E.*coli*.](images/comparison&#32;of&#32;pols.jpg)
