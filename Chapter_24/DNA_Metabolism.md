@@ -28,6 +28,7 @@
   - The rate of DNA synthesis is high (1,000 nucleotides pre second).
   - No 5'->3' exonuclease activity. So, it cannot remove the RNA primers.
   - Functions of each subunits: <br />
+  
     | Subunit | Function |
     | :--: | :-- |
     | $\alpha$ | Polymerization |
